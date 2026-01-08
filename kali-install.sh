@@ -54,17 +54,19 @@ apt install -y \
     kali-linux-default \
     kali-desktop-gnome \
     kali-tools-top10 \
-    kali-tools-passwords \
-    kali-tools-web \
-    kali-tools-windows-resources \
     kali-tools-information-gathering \
     kali-tools-vulnerability \
+    kali-tools-web \
+    kali-tools-database \
+    kali-tools-passwords \
     kali-tools-wireless \
     kali-tools-reverse-engineering \
     kali-tools-exploitation \
     kali-tools-social-engineering \
     kali-tools-sniffing-spoofing \
-    kali-tools-reporting
+    kali-tools-reporting \
+    kali-tools-forensics \
+    kali-tools-crypto-stego
 
 # Configure user
 useradd -m -s /bin/bash kali
