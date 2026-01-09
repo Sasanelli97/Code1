@@ -1,0 +1,12 @@
+{
+  "name": "blackbox-api-task",
+  "version": "1.0.0",
+  "description": "A Node.js script to create tasks via Blackbox AI API",
+  "main": "create-readme.js",
+  "scripts": {
+    "start": "node create-readme.js"
+  },
+  "keywords": ["blackbox", "api", "readme"],
+  "author": "",
+  "license": "ISC"
+}
